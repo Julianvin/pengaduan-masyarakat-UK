@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pengaduan Masyarakat</title>
-    @vite('resources/css/app.css')
+    <link href="./output.css" rel="stylesheet">
 </head>
 <body class="min-h-screen">
     <main class="relative min-h-screen overflow-hidden">
